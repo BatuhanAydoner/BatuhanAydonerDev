@@ -17,8 +17,10 @@
 
 - 🌱 **I’m Currently Learning**
 <code title="Android"><img height="35" src="https://www.teknoblog.com/wp-content/uploads/2019/08/android-logo-220819.png"></code>
-<code title="Flutter"><img height="35" src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg"></code> <br>
+<code title="Flutter"><img height="35" src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg"></code>
+<code title="Flutter"><img height="35" src="https://img.icons8.com/color/2x/javascript.png"></code> <br>
 - 🛠 **My Development Environment** <code title="Android Studio"><img height="35"  src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"></code>
+<code title="Flutter"><img height="35" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png"></code>
 
 
 - 📫 How to reach me: batuhanaydonerg1998@gmail.com 
