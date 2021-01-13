@@ -1,6 +1,7 @@
 
 <p align="center" >
-  <img src="https://static.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif"  alt="gif">
+  <img src="https://i.pinimg.com/originals/87/21/7e/87217e68d96c3b75d9dcb4e598a79235.gif"  alt="gif">
+  [![gamer_800x600.gif](https://s2.gifyu.com/images/gamer_800x600.gif)](https://gifyu.com/image/FWrl)
 </p>
 
 <br>
@@ -16,7 +17,7 @@
 <br>
 
 - 🌱 **I’m Currently Learning**
-<code title="Android"><img height="35" src="https://www.teknoblog.com/wp-content/uploads/2019/08/android-logo-220819.png"></code>
+<code title="Unity"><img height="35" src="https://www.teknoblog.com/wp-content/uploads/2019/08/android-logo-220819.png"></code>
 <code title="Flutter"><img height="35" src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg"></code>
 <code title="Flutter"><img height="35" src="https://img.icons8.com/color/2x/javascript.png"></code> <br>
 - 🛠 **My Development Environment** <code title="Android Studio"><img height="35"  src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"></code>
