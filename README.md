@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌱 **I’m Currently Learning**
+- 🌱 **I’m Currently Learning and Using**
 <code title="React"><img height="35" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png"></code> 
 <code title="Vuejs"><img height="35" src="https://vuejs.org/images/logo.png"></code>
 <code title="Node.js"><img height="35" src="https://d3vlyaljhwga45.cloudfront.net/web-media/upload/nodejslogo.png"></code> 
