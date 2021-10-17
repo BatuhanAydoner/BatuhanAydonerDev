@@ -11,6 +11,7 @@
 <br>
 
 - 🌱 **I’m Currently Learning and Using**
+<code title="Javascrpt"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></code> 
 <code title="React"><img height="35" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png"></code> 
 <code title="Vuejs"><img height="35" src="https://vuejs.org/images/logo.png"></code>
 <code title="Node.js"><img height="35" src="https://d3vlyaljhwga45.cloudfront.net/web-media/upload/nodejslogo.png"></code> 
