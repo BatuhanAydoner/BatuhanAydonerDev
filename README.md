@@ -15,6 +15,7 @@
 <code title="Vuejs"><img height="35" src="https://vuejs.org/images/logo.png"></code>
 <code title="Node.js"><img height="35" src="https://d3vlyaljhwga45.cloudfront.net/web-media/upload/nodejslogo.png"></code> 
 <code title="TypeSscript"><img height="35" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
+<code title="MongoDB"><img height="35" src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress"></code>
 - 🛠 **My Development Environment** 
 <code title="Visual Studio Code"><img height="35" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png"></code>
 
